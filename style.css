@@ -17,11 +17,12 @@
 body {
 	font-family: Arial, Helvitica, sans-serif;
 	text-align: center;
+	background-color: #effaff;
 }
 
 hr {
 	max-width: 400px;
-    border: 1px solid #b7dff2;
+    	border: 1px solid #b7dff2;
 }
 
 #board {
